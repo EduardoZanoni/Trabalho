@@ -1,0 +1,36 @@
+header{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(45, 162, 205);
+    height: 100px;
+}
+    
+    nav li{
+        display:inline-table;
+        margin-left:20% ;
+    }
+    .LogoSesi{
+        width: 120px;
+    }
+    .PilhaVidro { margin-left: 30%;
+        height: 250px;
+   
+    }
+    main{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 400;
+    }
+
+    main{ background-color: rgb(7, 187, 142);
+        color: rgb  (83, 80, 35);
+        border: 5px rgb(7, 187, 142)solid;
+        
+    }
+
+.Footer{
+    font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+background-color: rgb(228, 233, 240);
+color: rgb(5, 102, 248);
+height: 30px;
+}

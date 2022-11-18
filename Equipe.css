@@ -1,0 +1,44 @@
+header{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(45, 162, 205);
+    height: 100px;
+}
+
+    nav li{
+        display:inline-table;
+        margin-left:20% ;
+    }
+    .LogoSesi{
+        width: 120px;
+    }
+    .Nicolas{
+        width: 20px;
+    }
+    .Zampier{
+        width: 20px
+    }
+    .Julia{
+        width:20px
+    }
+    .Jordana{
+        width: 20px;
+    }
+.Olivia{
+    width: 20px;
+}
+.Zanoni{
+    width: 20px;
+}
+main{ background-color: rgb(7, 187, 142);
+    color: rgb  (83, 80, 35);
+    border: 5px rgb(7, 187, 142)solid;
+    
+}
+.Footer{
+    font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+background-color: rgb(228, 233, 240);
+color: rgb(5, 102, 248);
+height: 30px;
+}
