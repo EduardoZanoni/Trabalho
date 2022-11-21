@@ -12,6 +12,15 @@ header{
     .LogoSesi{
         width: 120px;
     }
+.Inicio :hover { 
+    font-size: 30px;
+}
+.Descarte :hover{
+    font-size:30px;
+}
+.Equipe :hover{
+    font-size:30px;
+}
     .PilhaVidro { margin-left: 30%;
         height: 250px;
    
