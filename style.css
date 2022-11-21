@@ -10,14 +10,17 @@ nav li{
     display:inline-table;
     margin-left:20% ;
 }
-.Inicio{
-    background-color: chartreuse;
-    padding: 5px;
+
 
 }
-.Inicio :hover { Para saltar o link
+.Inicio :hover { 
     font-size: 30px;
-
+}
+.Descarte :hover{
+    font-size:30px;
+}
+.Equipe :hover{
+    font-size:30px;
 }
 .bodybuilder{
         border-radius: 100%;
