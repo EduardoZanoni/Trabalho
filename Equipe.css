@@ -9,6 +9,15 @@ header{
         display:inline-table;
         margin-left:20% ;
     }
+.Inicio :hover { 
+    font-size: 30px;
+}
+.Descarte :hover{
+    font-size:30px;
+}
+.Equipe :hover{
+    font-size:30px;
+}
     .LogoSesi{
         width: 120px;
     }
