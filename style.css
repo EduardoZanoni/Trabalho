@@ -45,10 +45,10 @@ body{
    /* border: 5px blue solid;*/
 }
 
-main{ background-color: rgb(0, 58, 84);
+main{ background-color: rgb(0, 26, 56);
     color: rgb  (83, 80, 35);
 
-    border: 5px rgb(0, 58, 84);
+    border: 5px  rgb(0, 26, 56);
 }
 
 
@@ -71,4 +71,4 @@ height: 30px;
 
 
 
-
+/* colocar a referência da imagem no centro */
