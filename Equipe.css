@@ -21,23 +21,13 @@ header{
     .LogoSesi{
         width: 120px;
     }
-    .Nicolas{
-        width: 20px;
-    }
-    .Zampier{
-        width: 20px
-    }
-    .Julia{
-        width:20px
-    }
-    .Jordana{
-        width: 20px;
-    }
-.Olivia{
-    width: 20px;
-}
-.Zanoni{
-    width: 20px;
+.Imagem{
+    width:150px;
+    border-radius: 35%;
+    display:inline-table;
+    margin-left:15%;
+    position:relative;
+
 }
 main{ background-color: rgb(7, 187, 142);
     color: rgb  (83, 80, 35);
