@@ -1,8 +1,9 @@
 header{
     /*border: 5px red solid; */
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(45, 162, 205);
+    font-family: Verdana,Tahoma, sans-serif;
+    background-color: rgb(255, 200, 0);
     height: 100px;
+    
    
     
 }
@@ -29,9 +30,7 @@ nav li{
         }
 .quadradobranco{
    
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   border-style:outset;
-   border-width: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
     font-weight: 400;
     background-color: white;
     width: 60%;
@@ -46,11 +45,10 @@ body{
    /* border: 5px blue solid;*/
 }
 
-main{ background-color: rgb(7, 187, 142);
+main{ background-color: rgb(0, 58, 84);
     color: rgb  (83, 80, 35);
 
-    border: 5px rgb(7, 187, 142)solid;
-    
+    border: 5px rgb(0, 58, 84);
 }
 
 
@@ -66,9 +64,11 @@ main{ background-color: rgb(7, 187, 142);
    .Footer{
     font-family: Arial, Helvetica, sans-serif;
 text-align: center;
-background-color: rgb(228, 233, 240);
-color: rgb(5, 102, 248);
+background-color: rgb(0, 27, 63);
+color: rgb(255, 255, 255);
 height: 30px;
 }
+
+
 
 
