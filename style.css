@@ -23,6 +23,12 @@ nav li{
 .Equipe :hover{
     font-size:20px;
 }
+.Física :hover{
+    font-size:20px;
+}
+.Fotos :hover{
+    font-size:20px;
+}
 .bodybuilder{
         border-radius: 100%;
         position: absolute;

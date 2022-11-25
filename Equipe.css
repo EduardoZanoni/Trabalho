@@ -21,6 +21,9 @@ header{
 .Física :hover{
     font-size:20px;
 }
+.Fotos :hover{
+    font-size:20px;
+}
     .LogoSesi{
         width: 120px;
     }
@@ -28,9 +31,10 @@ header{
     width:150px;
     border-radius: 40%;
     display:inline-table;
-    margin-left:5%;
+    margin-left:4%;
     position:relative;
-
+  font-style: italic;
+ 
 }
 body{background-color: rgb(1, 27, 52);
     margin: 0px;
